@@ -1,0 +1,7 @@
+# API keys (не коммитить!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
